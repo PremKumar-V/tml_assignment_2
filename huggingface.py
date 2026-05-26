@@ -2,7 +2,7 @@ from huggingface_hub import snapshot_download, login
 
 repo_id = "SprintML/tml26_task2"
 
-authToken = "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"
+authToken = "YOUR-API-HERE"
 
 login(token = authToken)
 

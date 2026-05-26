@@ -1,0 +1,8 @@
+huggingface-hub
+torch
+torchvision
+safetensors
+pandas
+numpy
+scikit-learn
+pillow
